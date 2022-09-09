@@ -1,6 +1,7 @@
 <HTML>
 <HEAD>
 <TITLE>BrettHQ.com</TITLE>
+<!-- created by Tom Brett @ BrettHQ.com -->
 
 <!-- loading windows 3.11 via a web browser! (using jsDos https://js-dos.com/) -->
 
